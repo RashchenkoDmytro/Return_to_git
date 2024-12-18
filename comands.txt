@@ -1,0 +1,18 @@
+Terminal comands:
+Git —version   - версія git
+Git —help   - список команд які підтримуються
+Ls  - що знаходиться в цій папці
+cd Documents  - перехід в папку Documents 
+Git init   - створення системної папки для git
+cd ..  - вихід з папки назад
+Git status  - на якій гілці знаходиться і які файли не записані чи записані
+Git add (назва файлу) - щоб додати файл на гілку або оновити зміни у файлі 
+Git rm —cashed index.html(-назва файлу) - щоб відмінити додавання або зміни файлу
+Clear - очистити термінал
+Git add .  - додати кілька документів або внести всі зміни які були зроблені 
+Git commit -m “first commit” - додавання commit з його назвою 
+git branch  - огляд дерева на якій гілці знаходимось
+git branch test - створення новоі гілки test
+git branch -D test - видалення гілки test
+git checout readme  - прехід на гілку readme
+git checout -b new - створення новоі гілки readme і одразу перехід на неі
