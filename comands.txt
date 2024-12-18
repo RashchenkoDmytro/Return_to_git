@@ -16,3 +16,4 @@ git branch test - створення новоі гілки test
 git branch -D test - видалення гілки test
 git checout readme  - прехід на гілку readme
 git checout -b new - створення новоі гілки readme і одразу перехід на неі
+git 
