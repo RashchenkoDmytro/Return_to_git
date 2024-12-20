@@ -1,0 +1,15 @@
+* {
+	padding: 0;
+	max-width: 1170px;
+	margin: 0 auto;
+	border: 0;
+	box-sizing: border-box;
+}
+h1 {
+	text-align: center;
+	margin-top: 30px;
+	color:rgb(157, 201, 38)
+}
+img {
+	margin: 0 28%;
+}
